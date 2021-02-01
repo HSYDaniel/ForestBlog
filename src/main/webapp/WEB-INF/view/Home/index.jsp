@@ -32,8 +32,8 @@
     <div class="layui-carousel" id="test1">
         <div carousel-item>
             <!--里面可以加图片，文字等-->
-            <div><img src="/img/thumbnail/random/img_6.jpg" /></div>
-            <div><img src="/img/thumbnail/random/img_9.jpg" /></div>
+            <div><img src="/img/thumbnail/random/img_1.jpg" /></div>
+            <div><img src="/img/thumbnail/random/img_2.jpg" /></div>
             <div><img src="C:\Users\DanielChong\Desktop\catSlee.jpg" /></div>
             <div><img src="file:///C:/Users/DanielChong/Desktop/catSlee.jpg" /></div>
         </div>
@@ -169,7 +169,6 @@
                 arrow: 'always', //始终显示箭头,不会消失
                 //anim: 'updown' //切换动画方式:anim
                 //indicator:'outside',
-                full: false ,//全屏
                 indicator: 'outside'    //这个属性：小圆点在外面
             });
         });
