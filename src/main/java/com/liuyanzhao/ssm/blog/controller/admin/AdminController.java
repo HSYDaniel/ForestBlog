@@ -30,7 +30,7 @@ import static com.liuyanzhao.ssm.blog.util.MyUtils.getIpAddr;
  */
 @Controller
 public class AdminController {
-    @Autowired
+    @Autowired 
     private UserService userService;
 
     @Autowired
